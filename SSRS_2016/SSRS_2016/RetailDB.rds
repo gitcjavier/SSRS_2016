@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="RetailDB">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=SQLNCLI11.1;Data Source=JAVORU;Initial Catalog=RETAIL</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>7deecbb7-f90b-4b08-9e68-2d7e87e69c68</DataSourceID>
+</RptDataSource>
