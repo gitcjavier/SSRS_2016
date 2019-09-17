@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Retail_Con_TCH">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=MSOLEDBSQL.1;Data Source=SAN-48ZKF72;Initial Catalog=RETAIL</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ee643532-1685-4275-9250-f84f31cf4483</DataSourceID>
+</RptDataSource>

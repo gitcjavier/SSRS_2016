@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <DataSource Include="RetailDB.rds" />
+    <DataSource Include="Retail_Con_TCH.rds" />
   </ItemGroup>
   <ItemGroup>
     <Report Include="1. Relacion de Clientes.rdl" />
